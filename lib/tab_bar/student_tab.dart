@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_task_ui/data/data.dart';
 import 'package:flutter_task_ui/widgets/student_list_view.dart';
-import 'package:flutter_task_ui/widgets/student_widget.dart';
 
 import '../responsive.dart';
 

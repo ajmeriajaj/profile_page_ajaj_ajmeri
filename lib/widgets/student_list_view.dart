@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_task_ui/widgets/student_widget.dart';
-
 import '../data/data.dart';
 
 class StudentListView extends StatefulWidget {

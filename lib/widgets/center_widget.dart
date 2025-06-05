@@ -30,7 +30,7 @@ class _CenterWidgetState extends State<CenterWidget> {
             ),
             SizedBox(height: 0.01 * getHeight(context)),
             TextWidget(
-                txt: "Elon Musk",
+                txt: "Ajaj Ajmeri",
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 30  * getResponsiveText(context),
@@ -39,7 +39,7 @@ class _CenterWidgetState extends State<CenterWidget> {
             ),
             SizedBox(height: 4),
             TextWidget(
-                txt: "IT Technician and Expert",
+                txt: "Application Developer",
                 style: TextStyle(
                     fontSize: 21 * getResponsiveText(context),
                     fontFamily: 'Poppins',
@@ -48,7 +48,7 @@ class _CenterWidgetState extends State<CenterWidget> {
             ),
             SizedBox(height: 0.006 * getHeight(context)),
             TextWidget(
-                txt: 'B-TEch in IT/CS From IIT',
+                txt: 'B-TEch in IT/CS From Silver Oak University',
                 style: TextStyle(
                     fontSize: 17 * getResponsiveText(context),
                     fontFamily: 'Poppins',
@@ -56,7 +56,7 @@ class _CenterWidgetState extends State<CenterWidget> {
                 )
             ),
             TextWidget(
-              txt: "Bangalore",
+              txt: "Ahmedabad",
               style: TextStyle(
                   fontSize: 17 * getResponsiveText(context),
                   fontFamily: 'Poppins',
