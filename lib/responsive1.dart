@@ -12,6 +12,7 @@ class Responsive1 {
   // Screen dimensions
   static double screenHeight(BuildContext context) =>
       MediaQuery.of(context).size.height;
+
   static double screenWidth(BuildContext context) =>
       MediaQuery.of(context).size.width;
 
@@ -22,7 +23,6 @@ class Responsive1 {
   }
 
   // Responsive padding
-  static EdgeInsets padding(BuildContext context) => EdgeInsets.all(
-      isTablet(context) ? 16.0 : 12.0
-  );
+  static EdgeInsets padding(BuildContext context) =>
+      EdgeInsets.all(isTablet(context) ? 16.0 : 12.0);
 }
